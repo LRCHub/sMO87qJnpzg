@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "スカイレストラン - Sky Restaurant",
+  "base_artist": "Hi-Fi Set",
+  "createdAt": "2026-01-14T02:22:17.882432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/01_スカイレストラン_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Hi‐Fi Set",
+      "has_synced": true,
+      "path": "select/02_スカイレストラン_Hi‐Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/03_スカイレストラン_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "田中裕梨",
+      "has_synced": true,
+      "path": "select/04_スカイレストラン_田中裕梨.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スカイレストラン - Sky Restaurant",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/05_スカイレストラン_-_Sky_Restaurant_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Yuri Tanaka",
+      "has_synced": false,
+      "path": "select/06_スカイレストラン_Yuri_Tanaka.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スカイレストラン - Sky Restaurant",
+      "artist": "Jun Shibata",
+      "has_synced": false,
+      "path": "select/07_スカイレストラン_-_Sky_Restaurant_Jun_Shibata.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "柴田 淳",
+      "has_synced": false,
+      "path": "select/08_スカイレストラン_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Yuri Tanaka(田中裕梨)",
+      "has_synced": false,
+      "path": "select/09_スカイレストラン_Yuri_Tanaka(田中裕梨).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Jun Shibata 柴田淳",
+      "has_synced": false,
+      "path": "select/10_スカイレストラン_Jun_Shibata_柴田淳.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スカイレストラン",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/11_スカイレストラン_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スカイレストラン",
+      "artist": "Hi-Fi Set",
+      "has_synced": false,
+      "path": "select/pl_01_スカイレストラン_Hi-Fi_Set.txt"
+    }
+  ]
+}
